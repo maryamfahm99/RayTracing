@@ -18,5 +18,4 @@ Notes:
   4.  For extra credit, this code implements the phong shading, boxes and triangles as objects.
 
 
-I acknowledge that I used online resources such as youtube, lectures, ChatGPT, friends to learn and understand better. I implemented what I understood and took what benefited me and worked for me the best.
 
